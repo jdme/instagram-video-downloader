@@ -1,5 +1,5 @@
 // Instagram Configurations
-export const enableWebpage = true; // Scrapes post page
+export const enableWebpage = false; // Scrapes post page
 export const enableGraphQL = true; // Requests post GraphQL data from instagram API
 
 // Server API
